@@ -19,8 +19,8 @@ To demonstrate a shared master switch using the Singleton pattern with access tr
  ```
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -73,3 +73,4 @@ public class prog {
 
 ## RESULT:
 Therefore, the program ensures only one master switch exists, tracks every access globally, and displays the total count each time a player uses it.
+
