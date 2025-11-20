@@ -17,8 +17,8 @@ To display the priority and name of a thread using Thread class.
  ```
 /*
 Program to implement a Thread Priority Concept using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -61,3 +61,4 @@ public class A implements Runnable {
 
 ## RESULT:
 Therefore, the program reads a thread name, prints its priority and name, and displays full thread details when executed.
+
