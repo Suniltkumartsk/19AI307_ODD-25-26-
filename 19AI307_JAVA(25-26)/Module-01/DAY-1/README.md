@@ -20,8 +20,8 @@ To display user details using different Java print statement methods clearly.
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Krithick Vivekananda
-RegisterNumber: 212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */ 
 ```
 
@@ -54,3 +54,4 @@ public class demo
 
 ## RESULT:
 Therefore, the program successfully reads the user’s name, age, and decimal number, then displays a greeting using print, shows the age using println, and prints the favorite number in a formatted style using printf.
+
