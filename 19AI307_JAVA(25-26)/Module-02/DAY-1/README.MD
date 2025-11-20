@@ -18,8 +18,8 @@ To create a Person class and display a greeting using attributes.
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber:  212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -63,4 +63,5 @@ public static void main(String[] args) {
 
 ## RESULT:
 Therefore, the program creates a Person object with the given details and prints a greeting message using its attributes.
+
 
