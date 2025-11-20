@@ -17,8 +17,8 @@ To save and restore article content versions using the Memento design pattern.
  ```
 /*
 Program to implement a Behaviour Pattern using Java
-Developed by: Krithick Vivekananda
-RegisterNumber: 212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -114,3 +114,4 @@ public class ArticleManager {
 
 ## RESULT:
 Therefore, the program stores each article revision as a memento and restores the correct version when requested.
+
