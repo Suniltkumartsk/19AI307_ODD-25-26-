@@ -24,8 +24,8 @@ To display the dragon’s state based on temperature using conditional checks.
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -59,6 +59,7 @@ public class demo
 
 ## RESULT:
 Therefore, the program reads the temperature and correctly displays the dragon’s state according to the given conditions.
+
 
 
 
