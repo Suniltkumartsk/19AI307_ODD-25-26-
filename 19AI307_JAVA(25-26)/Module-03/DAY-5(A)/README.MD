@@ -16,8 +16,8 @@ To use an inner class and access its method from outer.
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -58,3 +58,4 @@ public class OuterClass {
 
 ## RESULT:
 Therefore, the program creates an inner class, accesses it through the outer class, and prints a message using the name provided.
+
