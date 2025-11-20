@@ -17,8 +17,8 @@ To compute the square of a number using a static utility method.
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -55,3 +55,4 @@ class prog
 
 ## RESULT:
 Therefore, the program uses a static method to calculate and print the square of the given number without needing any object.
+
