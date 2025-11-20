@@ -22,8 +22,8 @@ To predict weather conditions using different bot types through abstraction.
  ```
 /*
 Program to implement a Interface using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -68,3 +68,4 @@ public class Main {
 
 ## RESULT:
 Therefore, the program selects the appropriate bot, processes the temperature, and prints a weather prediction according to the bot’s logic.
+
