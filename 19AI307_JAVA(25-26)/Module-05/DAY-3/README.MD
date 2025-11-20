@@ -20,8 +20,8 @@ To write a sample text string into a file using FileWriter.
  ```
 /*
 Program to implement a File Handling using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -61,3 +61,4 @@ public class WriteToFile {
 
 ## RESULT:
 Therefore, the program successfully writes the given string into output.txt and confirms the operation through a printed message.
+
