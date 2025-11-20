@@ -19,8 +19,8 @@ To swap two integers safely using a synchronized block in Java.
  ```
 /*
 Program to implement a Synchronization concept using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -63,3 +63,4 @@ public class Main {
 
 ## RESULT:
 Therefore, the program safely swaps the values of a and b inside a synchronized block and prints the updated results.
+
