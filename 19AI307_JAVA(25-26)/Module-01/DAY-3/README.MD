@@ -19,8 +19,8 @@ To print a right-angled triangle star pattern using simple nested loops.
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -57,4 +57,5 @@ public class demo
 
 ## RESULT:
 Therefore, the program takes the number of rows and prints a right-angled star pattern correctly using nested loops.
+
 
