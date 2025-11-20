@@ -16,8 +16,8 @@ To compute tax for different taxpayer types using abstraction and subclasses.
  ```
 /*
 Program to implement a Abstraction using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -82,3 +82,4 @@ public class Main {
 
 ## RESULT:
 Therefore, the program uses an abstract class with subclasses to calculate and display tax based on the taxpayer’s category and income.
+
