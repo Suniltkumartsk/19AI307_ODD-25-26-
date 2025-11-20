@@ -16,8 +16,8 @@ To serialize and deserialize a list of student objects using Java I/O.
  ```
 /*
 Program to implement a Serialization and Deserialization using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber:  212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -124,4 +124,5 @@ public class StudentSerializationUserInput {
 
 ## RESULT:
 Therefore, the program successfully stores a collection of Student objects in a file through serialization and later retrieves them correctly using deserialization, demonstrating persistent object storage.
+
 
