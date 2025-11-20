@@ -20,8 +20,8 @@ To calculate a student’s grade using inheritance and a simple grading method.
  ```
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -91,3 +91,4 @@ public class Main {
 
 ## RESULT:
 Therefore, the program creates a Student object using inheritance, computes the grade from marks, and prints all the student details correctly.
+
