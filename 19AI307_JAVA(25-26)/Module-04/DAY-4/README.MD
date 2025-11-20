@@ -19,8 +19,8 @@ To draw shapes using a factory and handle unknown shape names.
  ```
 /*
 Program to implement a Abstract Factory Pattern using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075 
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -130,3 +130,4 @@ public class prog
 
 ## RESULT:
 Therefore, the program uses a ShapeFactory to produce shape objects, draws known shapes, and reports unknown shapes as errors.
+
