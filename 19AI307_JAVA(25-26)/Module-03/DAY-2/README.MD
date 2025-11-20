@@ -21,8 +21,8 @@ To compute areas of multiple shapes using method overloading in Java.
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -79,3 +79,4 @@ public class Main {
 
 ## RESULT:
 Therefore, the program uses overloaded methods to calculate and display the areas of a square, rectangle, and circle based on the user’s inputs.
+
