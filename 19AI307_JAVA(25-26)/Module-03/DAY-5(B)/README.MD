@@ -18,8 +18,8 @@ To check whether a number is prime using Java wrapper class Integer.
  ```
 /*
 Program to implement a Wrapper Class using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -63,3 +63,4 @@ public class PrimeCheck {
 
 ## RESULT:
 Therefore, the program uses an Integer wrapper, checks for factors, and prints whether the given number is prime or not.
+
