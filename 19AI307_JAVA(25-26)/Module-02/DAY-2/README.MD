@@ -15,8 +15,8 @@ To create and call a method that prints a welcome message clearly.
  ```
 /*
 Program to implement a Methods using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -46,4 +46,5 @@ public class demo
 
 ## RESULT:
 Therefore, the program successfully calls the displayMessage method and prints the welcome message as intended.
+
 
