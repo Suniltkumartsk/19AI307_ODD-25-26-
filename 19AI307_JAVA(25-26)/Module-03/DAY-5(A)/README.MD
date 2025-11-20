@@ -59,3 +59,4 @@ public class OuterClass {
 ## RESULT:
 Therefore, the program creates an inner class, accesses it through the outer class, and prints a message using the name provided.
 
+
