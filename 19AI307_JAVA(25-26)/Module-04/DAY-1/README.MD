@@ -16,8 +16,8 @@ To divide two integers and safely handle division by zero errors.
  ```
 /*
 Program to implement a Exception Handling using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: SUNIL KUMAR T
+RegisterNumber: 212223240164
 */
 ```
 
@@ -61,3 +61,4 @@ public class demo
 
 ## RESULT:
 Therefore, the program divides the given numbers and displays the result, or shows an error message when the second number is zero.
+
